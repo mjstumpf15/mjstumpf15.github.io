@@ -94,10 +94,10 @@ a {
 }
 a:hover {
     text-decoration: blink;
-    color: firebrick;
+    color: DarkGoldenRod;
 }
 a:visited {
-    color: grey;
+    color: DarkGoldenRod;
 }
 ul, ol {
     padding: 0;
