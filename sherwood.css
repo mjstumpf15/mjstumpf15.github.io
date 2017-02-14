@@ -1,7 +1,7 @@
 body{
     margin: 0 auto;
     background-color:black;
-    background-image: url("http://wallpapercave.com/wp/fR4WHiJ.jpg");
+    background-image: url("http://wlpapers.com/images/urban-background-1.jpg");
     background-repeat: repeat-x;
     background-position: left;
     background-attachment: fixed;
@@ -94,10 +94,10 @@ a {
 }
 a:hover {
     text-decoration: blink;
-    color: blue;
+    color: firebrick;
 }
 a:visited {
-    color: blue;
+    color: grey;
 }
 ul, ol {
     padding: 0;
