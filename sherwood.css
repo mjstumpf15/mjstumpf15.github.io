@@ -94,10 +94,10 @@ a {
 }
 a:hover {
     text-decoration: blink;
-    color: salmon;
+    color: red;
 }
 a:visited {
-    color: grey;
+    color: red;
 }
 ul, ol {
     padding: 0;
