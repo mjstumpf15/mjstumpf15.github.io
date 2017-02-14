@@ -2,7 +2,8 @@ body{
     margin: 0 auto;
     background-color:white;
     background-image: url("https://www.clipartsgram.com/image/1284342478-56573976094735chapwood-website-background-1.jpg");
-    background-repeat: repeat x;
+    background-repeat: no-repeat;
+    background-position: center;
     background-attachment: fixed;
 
 /* 	following are some optional font families. Usually a family 
