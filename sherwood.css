@@ -3,7 +3,7 @@ body{
     background-color:white;
     background-image: url("https://www.clipartsgram.com/image/1284342478-56573976094735chapwood-website-background-1.jpg");
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: stretch;
     background-attachment: fixed;
 
 /* 	following are some optional font families. Usually a family 
